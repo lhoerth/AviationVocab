@@ -1,0 +1,25 @@
+h1
+{
+    font-family: sans-serif;
+    color: #505050;
+    text-shadow: 2px 2px 2px gold;
+}
+
+body
+{
+    background-image: url('images/aviation1.jpg');
+}
+
+p
+{
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    text-shadow: 2px 2px 2px gold;
+    color: #202020;
+}
+
+img
+{
+    border-color: gold;
+}

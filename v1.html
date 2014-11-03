@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="style/projV1.css">
+    <title>Team Project Version 1</title>
+</head>
+
+<body>
+<h1>Green River Community College Aviation Department</h1>
+
+<IMG SRC="images/fuselage.JPG" NAME="slide" BORDER="2" HEIGHT="200" WIDTH="250">
+
+<p id="label1">[PlaceHolder]</p>
+<button onclick="JavaScript:slideshowBack()"> Back</button>
+<button onclick="JavaScript:nextSlide()"> Next</button>
+<button id="audioBtn"> Hear the word</button>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+<script language="JavaScript">
+
+var num=1
+img1 = new Image ()
+img1.src = "images/fuselage.JPG"
+img2 = new Image ()
+img2.src = "images/wing.JPG"
+img3 = new Image ()
+img3.src = "images/engine.JPG"
+img4 = new Image ()
+img4.src = "images/helicopter.JPG"
+
+snd1 = new Audio ()
+snd1.src = "sounds/fuselage__us_2.mp3"
+snd2 = new Audio ()
+snd2.src = "sounds/wing__us_1.mp3"
+snd3 = new Audio ()
+snd3.src = "sounds/engine__us_1.mp3"
+snd4 = new Audio ()
+snd4.src = "sounds/helicopter__us_1.mp3" 
+
+text1 = "Fuselage"
+text2 = "Wing"
+text3 = "Engine"
+text4 = "Helicopter"
+
+var audioElement = document.createElement('audio');
+audioElement.setAttribute('src', 'sounds/fuselage__us_2.mp3');
+
+$('#audioBtn').click(function() {
+	audioElement.setAttribute('src', eval("snd"+num+".src"));
+	audioElement.play();	
+});
+
+
+function nextSlide()
+{
+num=num+1;
+if (num === 5)
+{ num = 1; }
+document.slide.src=eval("img"+num+".src");
+
+$("#label1").html(eval("text"+num));
+}
+
+function slideshowBack()
+{
+num=num-1
+if (num==0)
+{num=4}
+document.slide.src=eval("img"+num+".src");
+$("#label1").html(eval("text"+num));
+}
+
+
+</script>
+</body>
+</html>
