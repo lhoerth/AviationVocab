@@ -5,11 +5,9 @@
     <title>Department of Aviation</title>
     <link href="indexcss.css" rel="stylesheet" type="text/css" />
 
-    <link rel="stylesheet" href="indexcss.css" type="text/css" media="screen" charset="utf-8" />
-
+    <link rel="stylesheet" href="indexcss.css" type="text/css" media="screen" />
 
     <script src="jquery.js" type="text/javascript"></script>
-
 
 </head>
 <body>
@@ -48,17 +46,15 @@
                             
                             <div class="cleaner_h40"></div>
 
-                            <h2></h2> 
-                            <p></p>
                             <div class="btn_more"><a href="#aboutus">Flash Cards <span>&raquo;</span></a></div>
                         </div> <!-- end of home -->
 
                         <div class="panel" id="aboutus">
                             <h1>Flash Cards</h1>
                             
-                            <p><IMG SRC="images/fuselage.JPG" NAME="mypic" BORDER="2" HEIGHT="200" WIDTH="250">
+                            <p><IMG alt="aviation picture" SRC="images/fuselage.JPG" id="mypic" HEIGHT="200" WIDTH="250">
                                 <div class="audio-wrap" onclick="playSound">
-                                    <audio id="word" NAME="mysnd">
+                                    <audio id="word">
                                         <source src="sounds/fuselage__us_2.mp3" type="audio/mpeg">
                                         </audio>
                                     </div>
@@ -68,101 +64,110 @@
 
                                     <button onclick="JavaScript:slideshowUp()"> Next</button>
 
-                                    <button id="audioBtn"> Hear It!</button>		
-										
+                                    <button id="audioBtn"> Hear It!</button>										
                                     
-                                    <script language="JavaScript">
+                                    <script>
+									
+										function BuildArray(size){
+											this.length = size;
+											for (var i = 1; i <= size; i++)
+											{this[i] = null;}
+											return this;
+										}
+										var img = new BuildArray(4);
+										var snd = new BuildArray(4);
+										var text = new BuildArray(4);
 
-                                        var num=1
-                                        img1 = new Image ()
-                                        img1.src = "images/fuselage.JPG"
-                                        img2 = new Image ()
-                                        img2.src = "images/wing.JPG"
-                                        img3 = new Image ()
-                                        img3.src = "images/engine.JPG"
-                                        img4 = new Image ()
-                                        img4.src = "images/helicopter.JPG"
+                                        var num=1;
+                                        img[1] = new Image ();
+                                        img[1].src = "images/fuselage.JPG";
+                                        img[2] = new Image ();
+                                        img[2].src = "images/wing.JPG";
+                                        img[3] = new Image ();
+                                        img[3].src = "images/engine.JPG";
+                                        img[4] = new Image ();
+                                        img[4].src = "images/helicopter.JPG";
 
-                                        snd1 = new Audio ()
-                                        snd1.src = "sounds/fuselage__us_2.mp3"
-                                        snd2 = new Audio ()
-                                        snd2.src = "sounds/wing__us_1.mp3"
-                                        snd3 = new Audio ()
-                                        snd3.src = "sounds/engine__us_1.mp3"
-                                        snd4 = new Audio ()
-                                        snd4.src = "sounds/helicopter__us_1.mp3" 
+                                        snd[1] = new Audio ();
+                                        snd[1].src = "sounds/fuselage__us_2.mp3";
+                                        snd[2] = new Audio ();
+                                        snd[2].src = "sounds/wing__us_1.mp3";
+                                        snd[3] = new Audio ();
+                                        snd[3].src = "sounds/engine__us_1.mp3";
+                                        snd[4] = new Audio ();
+                                        snd[4].src = "sounds/helicopter__us_1.mp3" ;
 
-                                        text1 = "Fuselage"
-                                        text2 = "Wing"
-                                        text3 = "Engine"
-                                        text4 = "Helicopter"
+                                        
+										text[1] = "Fuselage";
+                                        text[2] = "Wing";
+                                        text[3] = "Engine";
+                                        text[4] = "Helicopter";
 
                                         var audioElement = document.createElement('audio');
                                         audioElement.setAttribute('src', 'sounds/fuselage__us_2.mp3');
 
                                         $('#audioBtn').click(function() {
-                                            audioElement.setAttribute('src', eval("snd"+num+".src"));
+                                            audioElement.setAttribute('src', snd[num].src);
                                             audioElement.play();
                                         });
 
 
                                         function slideshowUp()
                                         {
-                                            num=num+1
-                                            if (num==5)
-                                                {num=1}
-                                            document.mypic.src=eval("img"+num+".src");
+                                            num=num+1;
+                                            if (num>=5)
+                                                {num=1;}
+                                            $("#mypic").src=img[num].src;
                                             
-                                            $("#label1").html(eval("text"+num));
+                                            $("#label1").html(text[num]);
                                         }
 
                                         function slideshowBack()
                                         {
-                                            num=num-1
-                                            if (num==0)
-                                                {num=4}
-                                            document.mypic.src=eval("img"+num+".src");
+                                            num=num-1;
+                                            if (num<=0)
+                                                {num=4;}
+                                            $("#mypic").src=img[num].src;
                                             
-                                            $("#label1").html(eval("text"+num));
+                                            $("#label1").html(text[num]);
                                         }
 
 
                                     </script>
 
-                                </p>
+                                
                             </div>
 
                             <div class="panel" id="services">
                                 
 								<div id=knowledge>Test Your Knowledge!<br><br> 
-									<IMG SRC="images/fuselage.JPG" NAME="slide" BORDER="2" HEIGHT="200" WIDTH="250">
+									<IMG alt="slide" SRC="images/fuselage.JPG" id="slide" HEIGHT="200" WIDTH="250">
 									<ul>
 										<li>
 											<a href="javascript:hear[1].play();">
-												<img src="images/speaker.PNG" width="25" height="22">
+												<img alt="sound" src="images/speaker.PNG" width="25" height="22">
 											</a>
-											<input type="button" id="btn1" value="button1">&nbsp
+											<input type="button" id="btn1" value="button1">
 										</li>
 										<li>
 											<a href="javascript:hear[2].play();">
-												<img src="images/speaker.PNG" width="25" height="22">
+												<img alt="sound" src="images/speaker.PNG" width="25" height="22">
 											</a>
 											<input type="button" id="btn2" value="button2">
 										</li>
 										<li>
 											<a id="speaker" href="javascript:hear[3].play();">
-												<img src="images/speaker.PNG" width="25" height="22">
+												<img alt="sound" src="images/speaker.PNG" width="25" height="22">
 											</a>
 											<input type="button" id="btn3" value="button3">
 										</li>
 									</ul>
-									<div><label id="result"><label></div><br><br>
+									<div><label id="result"></label></div><br><br>
 									<div><a id="proceed" href="javascript:nextSlide();">Next Question</a></div>
 								</div>
 
-								<img id=icons src='images/tinyEagle.png' alt="tiny eagle">
-								
-								
+								<img id=icons src='images/tinyEagle.png' alt="tiny eagle">				
+									
 								<script src="http://code.jquery.com/jquery.js"></script>
 								<SCRIPT>
 									// number of terms completely added to our pool.
@@ -191,7 +196,7 @@
 									words[5] = "Aileron";
 									words[6] = "Flaps";
 									words[7] = "Empannage";
-									words[8] = "Atabilizers";
+									words[8] = "Stabilizers";
 									
 									/* Image sources */
 									pictures[1] = new Image ();
@@ -299,7 +304,7 @@
 										num=num+1;
 										if (num >= NumberOfWords+1)
 										{ num = 1; }
-										document.slide.src=pictures[num].src;
+										$("#slide").attr("src",pictures[num].src);
 										ChsCrcctBtn();
 										setBtns();
 									}
@@ -326,7 +331,7 @@
 											$("#result").css("color", "#ff0000");
 										}
 										$("#result").show()
-										$("#proceed").fadeIn("slow");
+										$("#proceed").delay( 800 ).fadeIn("slow");
 									});
 
 								</SCRIPT>
@@ -356,7 +361,7 @@
                                         <label for="email">Your Email:</label> <input type="text" id="email" name="email" class="validate-email required input_field" />
                                         <div class="cleaner_h10"></div>
 
-                                        <label for="text">Message:</label> <textarea id="text" name="text" rows="0" cols="0" class="required"></textarea>
+                                        <label for="text">Message:</label> <textarea id="text" name="text" class="required"></textarea>
                                         <div class="cleaner_h10"></div>
 
                                         <input type="submit" class="submit_btn" name="submit" id="submit" value="Send" />

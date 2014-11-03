@@ -2,10 +2,6 @@
 Credit: http://www.templatemo.com
 */
 
-#speaker:hover {
-	box-shadow: 0 0 0.5em #34baf9;
-}
-
 input{
 	height: 2em;
 	border-radius: 4px;
@@ -242,7 +238,7 @@ em { color: #f9a834; }
     height: 455px;
     width: 600px;
     overflow: auto;
-/*  overflow-x: hidden; */
+	overflow-x: hidden; 
     position: relative;
     clear: left;
 	
