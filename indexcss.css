@@ -12,6 +12,13 @@ input{
 	color: white;
 }
 
+#prevNext {
+	text-align: center;
+}
+.prevNext {
+	margin-left: 1em;
+}
+
 .chss {
 	margin-top: 1em;
 	text-align: center;

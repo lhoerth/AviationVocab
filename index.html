@@ -36,11 +36,9 @@
 							<img alt="sound" src="images/speaker.PNG" width="22" height="22">
 						</a><span id="label1">Fuselage</span></p>
 					</div>
-					<div class="chss">
-						<input type="button" onclick="JavaScript:slideshowBack()" value="Back">
-
-						<input type="button" onclick="JavaScript:slideshowUp()" value="Next">
-
+					<div id="prevNext">
+						<input class="prevNext" type="button" onclick="JavaScript:slideshowBack()" value="<-Back">
+						<input class="prevNext" type="button" onclick="JavaScript:slideshowUp()" value="Next->">
 					</div>
 					<script src="http://code.jquery.com/jquery.js"></script>
 					<script>
@@ -97,7 +95,7 @@
 						text[4] = "Helicopter";
 						text[5] = "Aileron";
 						text[6] = "Flaps";
-						text[7] = "empennage";
+						text[7] = "Empennage";
 						text[8] = "Stabilizers";
 
 						var audioElement = document.createElement('audio');
@@ -180,57 +178,7 @@
 						return this;
 					}
 
-					var words = new BuildArray(NumberOfWords);
-					var pictures = new BuildArray(NumberOfWords);
-					var sounds = new BuildArray(NumberOfWords);
 					var hear = new BuildArray(3);
-
-					/* random words indexed */
-					words[1] = "Fuselage";
-					words[2] = "Wing";
-					words[3] = "Engine";
-					words[4] = "Helicopter";
-					words[5] = "Aileron";
-					words[6] = "Flaps";
-					words[7] = "empennage";
-					words[8] = "Stabilizers";
-
-					/* Image sources */
-					pictures[1] = new Image ();
-					pictures[1].src = "images/fuselage.JPG";
-					pictures[2] = new Image ();
-					pictures[2].src = "images/wing.JPG";
-					pictures[3] = new Image ();
-					pictures[3].src = "images/engine.JPG";
-					pictures[4] = new Image ();
-					pictures[4].src = "images/helicopter.JPG";
-					pictures[5] = new Image ();
-					pictures[5].src = "images/ailerons.jpg";
-					pictures[6] = new Image ();
-					pictures[6].src = "images/flaps.jpg";
-					pictures[7] = new Image ();
-					pictures[7].src = "images/empennage.jpg";
-					pictures[8] = new Image ();
-					pictures[8].src = "images/stabilizers.jpg";
-
-					/* These are the audio sources assigned to the
-					** "hear" objects for click & play */
-					sounds[1] = new Audio ();
-					sounds[1].src = "sounds/fuselage__us_2.mp3";
-					sounds[2] = new Audio ();
-					sounds[2].src = "sounds/wing__us_1.mp3";
-					sounds[3] = new Audio ();
-					sounds[3].src = "sounds/engine__us_1.mp3";
-					sounds[4] = new Audio ();
-					sounds[4].src = "sounds/helicopter__us_1.mp3";
-					sounds[5] = new Audio ();
-					sounds[5].src = "sounds/ailero01.wav" ;
-					sounds[6] = new Audio ();
-					sounds[6].src = "sounds/flap0001.wav" ;
-					sounds[7] = new Audio ();
-					sounds[7].src = "sounds/empenn01.wav" ;
-					sounds[8] = new Audio ();
-					sounds[8].src = "sounds/stabil06.wav" ;
 
 					/* These are played when the speakers are clicked */
 					hear[1] = document.createElement('audio');
@@ -246,8 +194,8 @@
 						alert("crctBtn: " + crctBtnID);
 						*/
 
-						hear[crctBtn].src = sounds[crntSld].src;
-						$(crctBtnID).attr("value",words[crntSld]);
+						hear[crctBtn].src = snd[crntSld].src;
+						$(crctBtnID).attr("value",text[crntSld]);
 					}
 
 					/* General purpose random picker */
@@ -270,21 +218,21 @@
 						var newWord1 = randW();
 
 						/* Make sure new word is not taken by A */
-						while(words[newWord1]===words[crntSld]){
+						while(text[newWord1]===text[crntSld]){
 							newWord1 = randW();
 						}
-						$(ID2).attr("value", words[newWord1]);
-						hear[i2].src = sounds[newWord1].src;
+						$(ID2).attr("value", text[newWord1]);
+						hear[i2].src = snd[newWord1].src;
 
 						var newWord2 = randW();
 
 						/* Make sure new word is not taken by A nor B*/
-						while (	words[newWord2]===words[crntSld] ||
-								words[newWord2]===words[newWord1]	)	{
+						while (	text[newWord2]===text[crntSld] ||
+								text[newWord2]===text[newWord1]	)	{
 							newWord2 = randW();
 						}
-						$(ID3).attr("value", words[newWord2]);
-						hear[i3].src = sounds[newWord2].src;
+						$(ID3).attr("value", text[newWord2]);
+						hear[i3].src = snd[newWord2].src;
 					}
 
 					/* Moves to the next challenge. */
@@ -301,7 +249,7 @@
 						crntSld=crntSld+1;
 						if (crntSld >= NumberOfWords+1)
 						{ crntSld = 1; }
-						$("#slide").attr("src",pictures[crntSld].src);
+						$("#slide").attr("src",img[crntSld].src);
 						ChsCrcctBtn();
 						setBtns();
 					}
@@ -318,7 +266,7 @@
 						$("#btn1").prop( "disabled", true );
 						$("#btn2").prop( "disabled", true );
 						$("#btn3").prop( "disabled", true );
-						if ($(this).attr("value") == words[crntSld]){
+						if ($(this).attr("value") == text[crntSld]){
 							// correct
 							$(this).css("box-shadow","0 0 0.5em #00ff00");
 							$("#result").html("Correct!");
@@ -327,7 +275,7 @@
 						}else{
 							// wrong
 							$(this).css("box-shadow","0 0 0.5em #ff0000, 0 0 0.5em #ff0000");
-							$("#result").html("Wrong. It was " + words[crntSld]+". ");
+							$("#result").html("Wrong. It was " + text[crntSld]+". ");
 							$("#result").css("color", "#ff0000");
 						}
 						$("#result").show()
