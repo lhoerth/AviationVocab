@@ -25,19 +25,23 @@
     <div>
       <h2 class="title">Learn the terms</h2>
 
-			<p><IMG alt="aviation picture" SRC="images/fuselage.JPG" id="mypic" HEIGHT="200" WIDTH="250">
+			<p><IMG alt="aviation picture" SRC="images/fuselage.JPG" id="mypic" class="slide" HEIGHT="200" WIDTH="250">
 				<div class="audio-wrap" onclick="playSound">
 					<audio id="word">
 						<source src="sounds/fuselage__us_2.mp3" type="audio/mpeg">
 						</audio>
 					</div>
-					<p id="label1">Fuselage</p>
+					<div class="knowledge">
+						<p><a href="javascript: audioElement.setAttribute('src', snd[num].src); audioElement.play();" id="audioBtn">
+							<img alt="sound" src="images/speaker.PNG" width="22" height="22">
+						</a><span id="label1">Fuselage</span></p>
+					</div>
+					<div class="chss">
+						<input type="button" onclick="JavaScript:slideshowBack()" value="Back">
 
-					<button onclick="JavaScript:slideshowBack()"> Back</button>
+						<input type="button" onclick="JavaScript:slideshowUp()" value="Next">
 
-					<button onclick="JavaScript:slideshowUp()"> Next</button>
-
-					<button id="audioBtn">Play sound</button>
+					</div>
 					<script src="http://code.jquery.com/jquery.js"></script>
 					<script>
 						var nTerms = 8;
@@ -65,7 +69,7 @@
 						img[6] = new Image ();
 						img[6].src = "images/flaps.jpg";
 						img[7] = new Image ();
-						img[7].src = "images/empannage.jpg";
+						img[7].src = "images/empennage.jpg";
 						img[8] = new Image ();
 						img[8].src = "images/stabilizers.jpg";
 
@@ -93,16 +97,18 @@
 						text[4] = "Helicopter";
 						text[5] = "Aileron";
 						text[6] = "Flaps";
-						text[7] = "Empannage";
+						text[7] = "empennage";
 						text[8] = "Stabilizers";
 
 						var audioElement = document.createElement('audio');
 						audioElement.setAttribute('src', 'sounds/fuselage__us_2.mp3');
 
+						/*
 						$('#audioBtn').click(function() {
 							audioElement.setAttribute('src', snd[num].src);
 							audioElement.play();
 						});
+						*/
 
 
 						function slideshowUp()
@@ -134,8 +140,8 @@
     </div>
     <div>
       <h2 class="title">Test Your Knowledge</h2>
-					<IMG alt="slide" SRC="images/fuselage.JPG" id="slide" HEIGHT="200" WIDTH="250">
-						<div id="chss">
+					<IMG alt="slide" SRC="images/fuselage.JPG" id="slide" class="slide" HEIGHT="200" WIDTH="250">
+						<div class="chss">
 							<div class="chs">
 								<a href="javascript:hear[1].play();">
 									<img alt="sound" src="images/speaker.PNG" width="22" height="22">
@@ -155,7 +161,7 @@
 								<input type="button" id="btn3" value="button3">
 							</div>
 						</div>
-					<div id="knowledge">
+					<div class="knowledge">
 					<p id="result"></p>
 					<a id="proceed" href="javascript:nextSlide();">Next Question</a></div>
 
@@ -186,7 +192,7 @@
 					words[4] = "Helicopter";
 					words[5] = "Aileron";
 					words[6] = "Flaps";
-					words[7] = "Empannage";
+					words[7] = "empennage";
 					words[8] = "Stabilizers";
 
 					/* Image sources */
@@ -203,7 +209,7 @@
 					pictures[6] = new Image ();
 					pictures[6].src = "images/flaps.jpg";
 					pictures[7] = new Image ();
-					pictures[7].src = "images/empannage.jpg";
+					pictures[7].src = "images/empennage.jpg";
 					pictures[8] = new Image ();
 					pictures[8].src = "images/stabilizers.jpg";
 
@@ -308,7 +314,7 @@
 					});
 
 					/* Checks whether correct button was clicked */
-					$("#chss :button").click(function(){
+					$(".chss :button").click(function(){
 						$("#btn1").prop( "disabled", true );
 						$("#btn2").prop( "disabled", true );
 						$("#btn3").prop( "disabled", true );

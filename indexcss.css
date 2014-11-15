@@ -12,7 +12,7 @@ input{
 	color: white;
 }
 
-#chss {
+.chss {
 	margin-top: 1em;
 	text-align: center;
 }
@@ -50,7 +50,7 @@ a:hover { color: #CCFF00; text-decoration: underline; }
 
 img { border: none; }
 
-#slide {
+.slide {
 	display: block;
 	margin-left: auto;
     margin-right: auto;
@@ -70,12 +70,7 @@ h2 {
 h3 { font-size: 16px; margin: 0 0 15px 0; padding: 0; padding: 0; font-weight: normal;  }
 h4 { font-size: 14px; margin: 0 0 15px 0; padding: 0; }
 
-#result {
-	margin-top: 0.3em;
-	margin-bottom: 0.3em;
-}
-
-#knowledge {
+.knowledge {
 	font-family: sans-serif;
 	font-weight: bold;
 	font-size: 28px;
@@ -84,4 +79,9 @@ h4 { font-size: 14px; margin: 0 0 15px 0; padding: 0; }
 	width: 100%;	
 	text-align: center;
 	display: block;
+}
+
+p {
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
 }
