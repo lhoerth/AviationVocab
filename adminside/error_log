@@ -1,0 +1,75 @@
+[26-Nov-2014 12:21:43 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 16
+[26-Nov-2014 12:22:04 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:22:07 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:22:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:32:53 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:33:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 13:19:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:19:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:54:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 88
+[26-Nov-2014 13:55:04 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 13:55:56 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 13:57:39 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 13:59:02 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 14:02:26 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 14:04:23 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 14:08:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:09:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:11:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:12:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:15:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:16:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:18:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:18:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:19:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:19:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[02-Dec-2014 00:36:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[02-Dec-2014 00:51:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 00:55:31 America/Chicago] PHP Fatal error:  Call to a member function errorInfo() on a non-object in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 108
+[02-Dec-2014 00:57:38 America/Chicago] PHP Fatal error:  Call to a member function errorInfo() on a non-object in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 108
+[02-Dec-2014 01:08:54 America/Chicago] PHP Notice:  Undefined index: CONTENT_LENGTH in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 69
+[02-Dec-2014 01:08:54 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:08:54 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:08:54 America/Chicago] PHP Fatal error:  Call to a member function errorInfo() on a non-object in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 110
+[02-Dec-2014 01:09:59 America/Chicago] PHP Notice:  Undefined index: CONTENT_LENGTH in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 69
+[02-Dec-2014 01:09:59 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:09:59 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:09:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:10:53 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:10:53 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:10:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:11:40 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:11:40 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:11:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:07 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:07 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:10 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:10 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:15 America/Chicago] PHP Notice:  Undefined index: CONTENT_LENGTH in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 69
+[02-Dec-2014 01:24:15 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:15 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:18 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:18 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:22 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:22 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:30:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:30:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:31:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:33:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 115
+[02-Dec-2014 01:36:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:41:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:42:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 115
+[02-Dec-2014 01:42:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 115
+[02-Dec-2014 01:44:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 116
+[02-Dec-2014 01:44:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 116

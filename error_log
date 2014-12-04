@@ -1,0 +1,387 @@
+[26-Nov-2014 12:21:43 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 16
+[26-Nov-2014 12:22:04 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:22:07 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:22:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:32:53 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 12:33:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 111
+[26-Nov-2014 13:19:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:19:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:52 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:20:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php:2) in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/index.php on line 5
+[26-Nov-2014 13:54:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 88
+[26-Nov-2014 13:55:04 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, null given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 13:55:56 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 13:57:39 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 13:59:02 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 14:02:26 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 14:04:23 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 124
+[26-Nov-2014 14:08:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:09:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:11:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:12:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 112
+[26-Nov-2014 14:15:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:16:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:18:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:18:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:19:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[26-Nov-2014 14:19:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[02-Dec-2014 00:36:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 113
+[02-Dec-2014 00:51:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 00:55:31 America/Chicago] PHP Fatal error:  Call to a member function errorInfo() on a non-object in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 108
+[02-Dec-2014 00:57:38 America/Chicago] PHP Fatal error:  Call to a member function errorInfo() on a non-object in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 108
+[02-Dec-2014 01:08:54 America/Chicago] PHP Notice:  Undefined index: CONTENT_LENGTH in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 69
+[02-Dec-2014 01:08:54 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:08:54 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:08:54 America/Chicago] PHP Fatal error:  Call to a member function errorInfo() on a non-object in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 110
+[02-Dec-2014 01:09:59 America/Chicago] PHP Notice:  Undefined index: CONTENT_LENGTH in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 69
+[02-Dec-2014 01:09:59 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:09:59 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:09:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:10:53 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:10:53 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:10:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:11:40 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:11:40 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:11:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:07 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:07 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:10 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:10 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:15 America/Chicago] PHP Notice:  Undefined index: CONTENT_LENGTH in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 69
+[02-Dec-2014 01:24:15 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:15 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:18 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:18 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:24:22 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 73
+[02-Dec-2014 01:24:22 America/Chicago] PHP Notice:  Undefined index: file in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 94
+[02-Dec-2014 01:24:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 117
+[02-Dec-2014 01:30:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:30:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:31:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:33:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 115
+[02-Dec-2014 01:36:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:41:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 114
+[02-Dec-2014 01:42:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 115
+[02-Dec-2014 01:42:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 115
+[02-Dec-2014 01:44:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 116
+[02-Dec-2014 01:44:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/logan/public_html/IT/305/bootstrap/demo/bootstrap-demo/upload.php on line 116
+[02-Dec-2014 23:53:35 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[02-Dec-2014 23:53:35 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[02-Dec-2014 23:53:35 America/Chicago] PHP Warning:  include(): Failed opening '../config/dblogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[02-Dec-2014 23:53:35 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/logan/public_html/IT/305/gpv4/upload.php on line 121
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:07 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:08 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:09 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:10 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:11 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:12 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:12 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:12 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:12 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:12 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:12 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:13 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:14 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:15 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:16 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:17 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[02-Dec-2014 23:59:18 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:35 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:36 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:37 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:38 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:39 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:00:40 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:55 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:56 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:57 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:58 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:58 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:58 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:58 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:58 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:58 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:01:59 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:02:00 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:06:28 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 00:06:28 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 00:06:28 America/Chicago] PHP Warning:  include(): Failed opening '../config/dblogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 00:06:28 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/logan/public_html/IT/305/gpv4/upload.php on line 121
+[03-Dec-2014 00:06:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:06:37 America/Chicago] PHP Warning:  include(../config/cred.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:06:37 America/Chicago] PHP Warning:  include(): Failed opening '../config/cred.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/login.php on line 2
+[03-Dec-2014 00:42:27 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 00:42:27 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 00:42:27 America/Chicago] PHP Warning:  include(): Failed opening '../config/dblogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 00:42:27 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/logan/public_html/IT/305/gpv4/upload.php on line 121
+[03-Dec-2014 00:42:53 America/Chicago] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 73
+[03-Dec-2014 00:42:53 America/Chicago] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 73
+[03-Dec-2014 00:42:53 America/Chicago] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/index.php on line 73
+[03-Dec-2014 00:55:27 America/Chicago] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 79
+[03-Dec-2014 00:55:27 America/Chicago] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 79
+[03-Dec-2014 00:55:27 America/Chicago] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/index.php on line 79
+[03-Dec-2014 01:00:51 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:00:51 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:00:51 America/Chicago] PHP Warning:  include(): Failed opening '../config/dblogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:00:51 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/logan/public_html/IT/305/gpv4/upload.php on line 121
+[03-Dec-2014 01:07:16 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:07:16 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:07:16 America/Chicago] PHP Warning:  include(): Failed opening '../config/dblogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:07:16 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/logan/public_html/IT/305/gpv4/upload.php on line 121
+[03-Dec-2014 01:08:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$options' (T_VARIABLE) in /home/logan/public_html/IT/305/gpv4/index.php on line 56
+[03-Dec-2014 01:11:24 America/Chicago] PHP Warning:  include(learn.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 80
+[03-Dec-2014 01:11:24 America/Chicago] PHP Warning:  include(learn.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 80
+[03-Dec-2014 01:11:24 America/Chicago] PHP Warning:  include(): Failed opening 'learn.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/index.php on line 80
+[03-Dec-2014 01:47:20 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:47:20 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:47:20 America/Chicago] PHP Warning:  include(): Failed opening '../config/dblogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/upload.php on line 54
+[03-Dec-2014 01:47:20 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/logan/public_html/IT/305/gpv4/upload.php on line 121
+[03-Dec-2014 01:54:06 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 62
+[03-Dec-2014 01:54:06 America/Chicago] PHP Warning:  include(../config/dblogin.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 62
+[03-Dec-2014 01:54:06 America/Chicago] PHP Warning:  include(): Failed opening '../config/dblogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/upload.php on line 62
+[03-Dec-2014 01:54:06 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/logan/public_html/IT/305/gpv4/upload.php on line 129
+[03-Dec-2014 03:19:10 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/logan/public_html/IT/305/gpv4/upload.php on line 132
+[03-Dec-2014 06:03:32 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/logan/public_html/IT/305/gpv4/upload.php on line 116
+[03-Dec-2014 06:04:03 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/logan/public_html/IT/305/gpv4/upload.php on line 194
+[03-Dec-2014 06:04:22 America/Chicago] PHP Warning:  move_uploaded_file(upload/audio/ailero01.wav): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/upload.php on line 205
+[03-Dec-2014 06:04:22 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqMie40' to 'upload/audio/ailero01.wav' in /home/logan/public_html/IT/305/gpv4/upload.php on line 205
+[03-Dec-2014 06:06:08 America/Chicago] PHP Warning:  file_get_contents(http://translate.google.com/translate_tts?q=Delicousness+is+not+a+word): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/logan/public_html/IT/305/gpv4/upload.php on line 187
+[03-Dec-2014 06:07:04 America/Chicago] PHP Warning:  file_get_contents(http://translate.google.com/translate_tts?q=Test+of+a+test): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/logan/public_html/IT/305/gpv4/upload.php on line 187
+[03-Dec-2014 06:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'error' (T_STRING), expecting ',' or ';' in /home/logan/public_html/IT/305/gpv4/upload.php on line 191
+[03-Dec-2014 06:20:25 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, string given in /home/logan/public_html/IT/305/gpv4/upload.php on line 254
+[03-Dec-2014 06:35:45 America/Chicago] PHP Warning:  include(test.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 75
+[03-Dec-2014 06:35:45 America/Chicago] PHP Warning:  include(test.php): failed to open stream: No such file or directory in /home/logan/public_html/IT/305/gpv4/index.php on line 75
+[03-Dec-2014 06:35:45 America/Chicago] PHP Warning:  include(): Failed opening 'test.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/logan/public_html/IT/305/gpv4/index.php on line 75
+[03-Dec-2014 07:26:42 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/logan/public_html/IT/305/gpv4/learn.php on line 63
+[03-Dec-2014 07:29:07 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/logan/public_html/IT/305/gpv4/learn.php on line 32
+[03-Dec-2014 07:39:05 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/logan/public_html/IT/305/gpv4/learn.php on line 33
+[03-Dec-2014 07:45:47 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/logan/public_html/IT/305/gpv4/learn.php on line 33
+[03-Dec-2014 07:46:41 America/Chicago] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/logan/public_html/IT/305/gpv4/learn.php on line 35
+[03-Dec-2014 07:57:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/logan/public_html/IT/305/gpv4/learn.php on line 67
+[03-Dec-2014 09:43:47 America/Chicago] PHP Parse error:  syntax error, unexpected ''			</tbody>' (T_CONSTANT_ENCAPSED_STRING) in /home/logan/public_html/IT/305/gpv4/upload.php on line 286
+[03-Dec-2014 09:44:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''</tbody></table></div>'' (T_CONSTANT_ENCAPSED_STRING) in /home/logan/public_html/IT/305/gpv4/upload.php on line 284
